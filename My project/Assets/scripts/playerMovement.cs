@@ -4,7 +4,10 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     [SerializeField] private float speed;
+    [SerializeField] private float walk;
     private Rigidbody2D body;
+
+  
 
 
     private void Awake()
@@ -14,8 +17,17 @@ public class playerMovement : MonoBehaviour
 
     private void Update()
     {
-        body.velocity = new Vector2(Input.GetAxis("Horizontal") * speed, body.velocity.y);
-            if (Input.GetKey(KeyCode.Space))
-            body.velocity = new Vector2(body.velocity.x, speed);
+        body.velocity = new Vector2(Input.GetAxis("Vertical") * speed, body.velocity.y);
+        body.velocity = new Vector2(Input.GetAxis("Vertical") * speed, body.velocity.y);
+        if (Input.GetKey(KeyCode.Space))
+        {
+            body.velocity = new Vector2(body.velocity.y, speed);
+        }
+
+       
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            body.velocity = new Vector2(body.velocity.x, walk);
+        }
     }
 }

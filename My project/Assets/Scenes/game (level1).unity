@@ -300,6 +300,7 @@ GameObject:
   - component: {fileID: 197922558}
   - component: {fileID: 197922557}
   - component: {fileID: 197922559}
+  - component: {fileID: 197922560}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -366,7 +367,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 197922554}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0076, y: 1.6424, z: 0}
+  m_LocalPosition: {x: 0.03, y: 1.6424, z: 0}
   m_LocalScale: {x: 0.041144148, y: 0.044113673, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -410,7 +411,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1.6
+  m_Mass: 0.0001
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -426,12 +427,32 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 197922554}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5aff5b452b28b374f8b34483a5dd6ff4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  walk: 3
+--- !u!114 &197922560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197922554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e4242541dd7bf649b1e3fcfc91b28c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkspeed: 2.21
+  jumppower: 8.47
+  jumppower2: 8.45
+  punch: {fileID: 21300000, guid: 0f24bbb6454d3bc4cb9ba072e32015a9, type: 3}
+  idle: {fileID: 21300000, guid: de752ddca29d9bc468ebc6759d5ddfa9, type: 3}
+  leanForward: 0.18
+  movedown: 0
 --- !u!1 &238619140
 GameObject:
   m_ObjectHideFlags: 0
@@ -2432,7 +2453,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2095535218}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.03, y: 0.65, z: -10}
+  m_LocalPosition: {x: 1.9891675, y: 1.2282404, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1560053342}
