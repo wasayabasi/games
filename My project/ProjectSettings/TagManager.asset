@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ground
+  - player
+  - stone
   layers:
   - Default
   - TransparentFX
@@ -12,16 +15,16 @@ TagManager:
   - Water
   - UI
   - 
-  - 
+  - player
   - 
   - 
   - post
   - 
+  - negative
   - 
-  - 
-  - 
-  - 
-  - 
+  - bounds
+  - ground
+  - enemy
   - 
   - 
   - 
@@ -40,4 +43,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2208620927
+    locked: 0
+  - name: close mountains
+    uniqueID: 3014124875
+    locked: 0
+  - name: trees
+    uniqueID: 2374656359
+    locked: 0
+  - name: ground
+    uniqueID: 883861147
+    locked: 0
+  - name: player
+    uniqueID: 2592709205
+    locked: 0
+  - name: foreground shadow
+    uniqueID: 986233675
+    locked: 0
+  - name: foreground
+    uniqueID: 3522742817
     locked: 0
