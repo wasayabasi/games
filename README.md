@@ -1,2 +1,2 @@
 # games
-a 2d rpg with a cool story
+Nostalgic and playful 2D platformer with retro pixel art and challenging colorful gameplay.
