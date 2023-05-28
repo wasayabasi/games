@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 3cd0c2a4428c9a145acb1dfee2f19d29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4233547907892618775
+    second: Lorem shit-Sheet_0
+  - first:
+      213: -9131661099404678137
+    second: Lorem shit-Sheet_1
+  - first:
+      213: 2522036318440986982
+    second: Lorem shit-Sheet_2
+  - first:
+      213: 6942346715567710474
+    second: Lorem shit-Sheet_3
+  - first:
+      213: -965088801248784527
+    second: Lorem shit-Sheet_4
+  - first:
+      213: 8370497634254300281
+    second: Lorem shit-Sheet_5
+  - first:
+      213: -1789448534384999935
+    second: Lorem shit-Sheet_6
+  - first:
+      213: 6144339023783994189
+    second: Lorem shit-Sheet_7
+  - first:
+      213: 3737717099177786777
+    second: Lorem shit-Sheet_8
+  - first:
+      213: -7356674941161699087
+    second: Lorem shit-Sheet_9
+  - first:
+      213: 4205155781412105692
+    second: Lorem shit-Sheet_10
+  - first:
+      213: 8359560801725603049
+    second: Lorem shit-Sheet_11
+  - first:
+      213: -2868719635557202390
+    second: Lorem shit-Sheet_12
+  - first:
+      213: 7644140618581631830
+    second: Lorem shit-Sheet_13
+  - first:
+      213: -1459918845907865963
+    second: Lorem shit-Sheet_14
+  - first:
+      213: 1501838302222957953
+    second: Lorem shit-Sheet_15
+  - first:
+      213: 1512509280045943432
+    second: Lorem shit-Sheet_16
+  - first:
+      213: -3725223336576536973
+    second: Lorem shit-Sheet_17
+  - first:
+      213: 3757960643458752370
+    second: Lorem shit-Sheet_18
+  - first:
+      213: 8431137784867828321
+    second: Lorem shit-Sheet_19
+  - first:
+      213: 6552689016515232476
+    second: Lorem shit-Sheet_20
+  - first:
+      213: -2873484221629777446
+    second: Lorem shit-Sheet_21
+  - first:
+      213: -5928682371255897605
+    second: Lorem shit-Sheet_22
+  - first:
+      213: 4252431144412123555
+    second: Lorem shit-Sheet_23
+  - first:
+      213: 8557649660825126106
+    second: Lorem shit-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 871
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2192
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a985546590ca30800000000000000
+      internalID: 4233547907892618775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2192
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2bb89c92d54180800000000000000
+      internalID: -9131661099404678137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2192
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6691f475ba2100320800000000000000
+      internalID: 2522036318440986982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2192
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0163014e8b285060800000000000000
+      internalID: 6942346715567710474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2192
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcbd839d05b92f0800000000000000
+      internalID: -965088801248784527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1644
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a9f2ef3bf92470800000000000000
+      internalID: 8370497634254300281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1644
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028324f90a9a27e0800000000000000
+      internalID: -1789448534384999935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1644
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43273cb9c3154550800000000000000
+      internalID: 6144339023783994189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1644
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d356ff5e90fd330800000000000000
+      internalID: 3737717099177786777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1644
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f80a0c4e17d7e990800000000000000
+      internalID: -7356674941161699087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1096
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddaf3047e6bb5a30800000000000000
+      internalID: 4205155781412105692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1096
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec52212240230470800000000000000
+      internalID: 8359560801725603049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1096
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26cc6ac0b24038d0800000000000000
+      internalID: -2868719635557202390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1096
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65361b76461751a60800000000000000
+      internalID: 7644140618581631830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1096
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e63cc6b835dbbe0800000000000000
+      internalID: -1459918845907865963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d33129af997d410800000000000000
+      internalID: 1501838302222957953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 548
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ace943d238df410800000000000000
+      internalID: 1512509280045943432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 548
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2c5acc195d4cc0800000000000000
+      internalID: -3725223336576536973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 548
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd1417b45f62430800000000000000
+      internalID: 3757960643458752370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 548
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bb6f252b610570800000000000000
+      internalID: 8431137784867828321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd28ef061f3dfea50800000000000000
+      internalID: 6552689016515232476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9311623555f18d0800000000000000
+      internalID: -2873484221629777446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fb2b7bc619bda0800000000000000
+      internalID: -5928682371255897605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 0
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a11e72789ba30b30800000000000000
+      internalID: 4252431144412123555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lorem shit-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 0
+        width: 871
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad449b1b601e2c670800000000000000
+      internalID: 8557649660825126106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
